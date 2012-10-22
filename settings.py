@@ -168,5 +168,5 @@ TEMPLATE_CONTEXT_PROCESSORS = (
 
 )
 EMAIL_PORT = 1025
-EMAIL_SKLEPU = 'luken190@wp.pl'
+EMAIL_SKLEPU = 'luken90@wp.pl'
 #LOGIN_REDIRECT_URL = 'http://localhost:8000'
